@@ -1,2 +1,2 @@
-# scrape-kcna
-Scrapping the North Korean main propaganda source
+# Getting articles from (North) Korean Central News Agency
+This repository contains a notebook that scrapes articles from kcna.kp. It is advised to run it from your local machine. The notebook is developed for articles in Russian, but can also be adapted for any other language. If you are interested only in the resulting Russian dataset, here is a link to download it (15000 entries): [download](https://storage.googleapis.com/ml-bucket-isikus/datasets/ru_kcna_20201229.tar.gz).
